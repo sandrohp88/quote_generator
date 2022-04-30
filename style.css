@@ -1,0 +1,10 @@
+html{
+    /* Prevents padding from adding extra width or height to the page */
+    box-sizing: border-box; 
+}
+
+body{
+    margin: 0;
+    /* Full height of the screen. vh=viewport hight */
+    min-height: 100vh;
+}
